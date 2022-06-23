@@ -8,7 +8,7 @@ import { api } from '../../services/api'
 
 import {Header} from '../../components/Header'
 import {Note} from '../../components/Note'
-import {Input} from '../../components/Input'
+import {Input} from '../../components/input'
 import {Section} from '../../components/Section'
 
 import {ButtonText} from '../../components/ButtonText'
